@@ -1,1 +1,2 @@
 # shinjiniguha.github.io
+Shin!
